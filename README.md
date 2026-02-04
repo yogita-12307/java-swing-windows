@@ -14,12 +14,13 @@ This project focuses on event-driven programming, JFrame management, and basic G
 ## Screenshots
 
 **Welcome Window**  
-![Welcome Window](screenshots/welcome.png)
+<img width="1919" height="197" alt="image" src="https://github.com/user-attachments/assets/b76c5ce0-8953-4987-a9f7-370343f379a5" />
+
 
 **Result Window**  
-![Result Window](screenshots/result.png)
 
-*(You can add your own screenshots in the `screenshots` folder)*
+<img width="627" height="416" alt="image" src="https://github.com/user-attachments/assets/6399f016-f1bd-4792-9fdf-45123ad3cd5b" />
+
 
 ## Installation
 
